@@ -1,0 +1,24 @@
+#green{
+     color:rgb(245, 164, 13);
+     padding-top:70px;
+     font-size: 70px;
+}
+.woman-jc{
+    font-weight:bold;
+}
+.col img{
+    height: 400px;
+   
+
+}
+.oscara{
+    background-color: none;
+}
+.last-part{
+    background-color: white;
+    border: none;
+    box-shadow: gray;
+}
+.color{
+    color: rgb(88, 88, 170);
+}
